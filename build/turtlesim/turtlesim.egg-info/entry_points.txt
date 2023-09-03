@@ -1,0 +1,3 @@
+[console_scripts]
+nodo_publicador = turtlesim.ejercicio1_publicador:main
+

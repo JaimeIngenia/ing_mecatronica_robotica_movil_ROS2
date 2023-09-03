@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/pkg_entrega1/pkg_entrega1.egg-info
+writing ../../build/pkg_entrega1/pkg_entrega1.egg-info/PKG-INFO
+writing dependency_links to ../../build/pkg_entrega1/pkg_entrega1.egg-info/dependency_links.txt
+writing entry points to ../../build/pkg_entrega1/pkg_entrega1.egg-info/entry_points.txt
+writing requirements to ../../build/pkg_entrega1/pkg_entrega1.egg-info/requires.txt
+writing top-level names to ../../build/pkg_entrega1/pkg_entrega1.egg-info/top_level.txt
+writing manifest file '../../build/pkg_entrega1/pkg_entrega1.egg-info/SOURCES.txt'
+reading manifest file '../../build/pkg_entrega1/pkg_entrega1.egg-info/SOURCES.txt'
+writing manifest file '../../build/pkg_entrega1/pkg_entrega1.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/jaime/ros2_ws/build/pkg_entrega1/build
+creating /home/jaime/ros2_ws/build/pkg_entrega1/build/lib
+creating /home/jaime/ros2_ws/build/pkg_entrega1/build/lib/pkg_entrega1
+copying pkg_entrega1/__init__.py -> /home/jaime/ros2_ws/build/pkg_entrega1/build/lib/pkg_entrega1
+running install
+running install_lib
+creating /home/jaime/ros2_ws/install/pkg_entrega1/lib/python3.8/site-packages/pkg_entrega1
+copying /home/jaime/ros2_ws/build/pkg_entrega1/build/lib/pkg_entrega1/__init__.py -> /home/jaime/ros2_ws/install/pkg_entrega1/lib/python3.8/site-packages/pkg_entrega1
+byte-compiling /home/jaime/ros2_ws/install/pkg_entrega1/lib/python3.8/site-packages/pkg_entrega1/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/jaime/ros2_ws/install/pkg_entrega1/share/ament_index
+creating /home/jaime/ros2_ws/install/pkg_entrega1/share/ament_index/resource_index
+creating /home/jaime/ros2_ws/install/pkg_entrega1/share/ament_index/resource_index/packages
+copying resource/pkg_entrega1 -> /home/jaime/ros2_ws/install/pkg_entrega1/share/ament_index/resource_index/packages
+copying package.xml -> /home/jaime/ros2_ws/install/pkg_entrega1/share/pkg_entrega1
+running install_egg_info
+Copying ../../build/pkg_entrega1/pkg_entrega1.egg-info to /home/jaime/ros2_ws/install/pkg_entrega1/lib/python3.8/site-packages/pkg_entrega1-0.0.0-py3.8.egg-info
+running install_scripts
+writing list of installed files to '/home/jaime/ros2_ws/build/pkg_entrega1/install.log'

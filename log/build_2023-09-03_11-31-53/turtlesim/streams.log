@@ -1,0 +1,29 @@
+[1.864s] Invoking command in '/home/jaime/ros2_ws/build/turtlesim': PYTHONPATH=/home/jaime/ros2_ws/build/turtlesim/prefix_override:/home/jaime/ros2_ws/install/turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/jaime/ros2_ws/build/turtlesim/build
+[2.300s] running develop
+[2.467s] Removing /home/jaime/ros2_ws/install/turtlesim/lib/python3.8/site-packages/turtlesim.egg-link (link to .)
+[2.592s] Invoked command in '/home/jaime/ros2_ws/build/turtlesim' returned '0': PYTHONPATH=/home/jaime/ros2_ws/build/turtlesim/prefix_override:/home/jaime/ros2_ws/install/turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/jaime/ros2_ws/build/turtlesim/build
+[2.595s] Invoking command in '/home/jaime/ros2_ws/src/turtlesim': PYTHONPATH=/home/jaime/ros2_ws/build/turtlesim/prefix_override:/home/jaime/ros2_ws/install/turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim build --build-base /home/jaime/ros2_ws/build/turtlesim/build install --record /home/jaime/ros2_ws/build/turtlesim/install.log --install-scripts $base/lib/turtlesim --single-version-externally-managed
+[2.980s] running egg_info
+[2.980s] writing ../../build/turtlesim/turtlesim.egg-info/PKG-INFO
+[2.981s] writing dependency_links to ../../build/turtlesim/turtlesim.egg-info/dependency_links.txt
+[2.981s] writing entry points to ../../build/turtlesim/turtlesim.egg-info/entry_points.txt
+[2.981s] writing requirements to ../../build/turtlesim/turtlesim.egg-info/requires.txt
+[2.982s] writing top-level names to ../../build/turtlesim/turtlesim.egg-info/top_level.txt
+[3.047s] reading manifest file '../../build/turtlesim/turtlesim.egg-info/SOURCES.txt'
+[3.048s] writing manifest file '../../build/turtlesim/turtlesim.egg-info/SOURCES.txt'
+[3.049s] running build
+[3.049s] running build_py
+[3.062s] running install
+[3.064s] running install_lib
+[3.066s] creating /home/jaime/ros2_ws/install/turtlesim/lib/python3.8/site-packages/turtlesim
+[3.073s] copying /home/jaime/ros2_ws/build/turtlesim/build/lib/turtlesim/__init__.py -> /home/jaime/ros2_ws/install/turtlesim/lib/python3.8/site-packages/turtlesim
+[3.073s] copying /home/jaime/ros2_ws/build/turtlesim/build/lib/turtlesim/ejercicio1.py -> /home/jaime/ros2_ws/install/turtlesim/lib/python3.8/site-packages/turtlesim
+[3.073s] byte-compiling /home/jaime/ros2_ws/install/turtlesim/lib/python3.8/site-packages/turtlesim/__init__.py to __init__.cpython-38.pyc
+[3.073s] byte-compiling /home/jaime/ros2_ws/install/turtlesim/lib/python3.8/site-packages/turtlesim/ejercicio1.py to ejercicio1.cpython-38.pyc
+[3.073s] running install_data
+[3.073s] running install_egg_info
+[3.075s] Copying ../../build/turtlesim/turtlesim.egg-info to /home/jaime/ros2_ws/install/turtlesim/lib/python3.8/site-packages/turtlesim-0.0.0-py3.8.egg-info
+[3.077s] running install_scripts
+[3.120s] Installing nodo_publicador script to /home/jaime/ros2_ws/install/turtlesim/lib/turtlesim
+[3.120s] writing list of installed files to '/home/jaime/ros2_ws/build/turtlesim/install.log'
+[3.268s] Invoked command in '/home/jaime/ros2_ws/src/turtlesim' returned '0': PYTHONPATH=/home/jaime/ros2_ws/build/turtlesim/prefix_override:/home/jaime/ros2_ws/install/turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim build --build-base /home/jaime/ros2_ws/build/turtlesim/build install --record /home/jaime/ros2_ws/build/turtlesim/install.log --install-scripts $base/lib/turtlesim --single-version-externally-managed

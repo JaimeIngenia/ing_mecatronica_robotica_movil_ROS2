@@ -1,0 +1,19 @@
+[0.798s] Invoking command in '/home/jaime/ros2_ws/build/controlador_turtlesim': PYTHONPATH=/home/jaime/ros2_ws/build/controlador_turtlesim/prefix_override:/home/jaime/ros2_ws/install/controlador_turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/jaime/ros2_ws/build/controlador_turtlesim/build --no-deps install_data
+[1.041s] running develop
+[1.169s] running egg_info
+[1.169s] writing controlador_turtlesim.egg-info/PKG-INFO
+[1.170s] writing dependency_links to controlador_turtlesim.egg-info/dependency_links.txt
+[1.170s] writing entry points to controlador_turtlesim.egg-info/entry_points.txt
+[1.170s] writing requirements to controlador_turtlesim.egg-info/requires.txt
+[1.170s] writing top-level names to controlador_turtlesim.egg-info/top_level.txt
+[1.215s] reading manifest file 'controlador_turtlesim.egg-info/SOURCES.txt'
+[1.216s] writing manifest file 'controlador_turtlesim.egg-info/SOURCES.txt'
+[1.262s] running build_ext
+[1.263s] Creating /home/jaime/ros2_ws/install/controlador_turtlesim/lib/python3.8/site-packages/site.py
+[1.266s] Creating /home/jaime/ros2_ws/install/controlador_turtlesim/lib/python3.8/site-packages/controlador-turtlesim.egg-link (link to .)
+[1.266s] Installing nodo_publicador script to /home/jaime/ros2_ws/install/controlador_turtlesim/lib/controlador_turtlesim
+[1.267s] 
+[1.267s] Installed /home/jaime/ros2_ws/build/controlador_turtlesim
+[1.267s] running install_data
+[1.267s] copying package.xml -> /home/jaime/ros2_ws/install/controlador_turtlesim/share/controlador_turtlesim
+[1.321s] Invoked command in '/home/jaime/ros2_ws/build/controlador_turtlesim' returned '0': PYTHONPATH=/home/jaime/ros2_ws/build/controlador_turtlesim/prefix_override:/home/jaime/ros2_ws/install/controlador_turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/jaime/ros2_ws/build/controlador_turtlesim/build --no-deps install_data

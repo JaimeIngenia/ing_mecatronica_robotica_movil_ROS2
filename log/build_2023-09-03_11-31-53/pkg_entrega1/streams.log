@@ -1,0 +1,33 @@
+[1.870s] Invoking command in '/home/jaime/ros2_ws/src/pkg_entrega1': PYTHONPATH=/home/jaime/ros2_ws/build/pkg_entrega1/prefix_override:/home/jaime/ros2_ws/install/pkg_entrega1/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/pkg_entrega1 build --build-base /home/jaime/ros2_ws/build/pkg_entrega1/build install --record /home/jaime/ros2_ws/build/pkg_entrega1/install.log --install-scripts $base/lib/pkg_entrega1 --single-version-externally-managed
+[2.267s] running egg_info
+[2.269s] creating ../../build/pkg_entrega1/pkg_entrega1.egg-info
+[2.269s] writing ../../build/pkg_entrega1/pkg_entrega1.egg-info/PKG-INFO
+[2.277s] writing dependency_links to ../../build/pkg_entrega1/pkg_entrega1.egg-info/dependency_links.txt
+[2.278s] writing entry points to ../../build/pkg_entrega1/pkg_entrega1.egg-info/entry_points.txt
+[2.278s] writing requirements to ../../build/pkg_entrega1/pkg_entrega1.egg-info/requires.txt
+[2.279s] writing top-level names to ../../build/pkg_entrega1/pkg_entrega1.egg-info/top_level.txt
+[2.279s] writing manifest file '../../build/pkg_entrega1/pkg_entrega1.egg-info/SOURCES.txt'
+[2.331s] reading manifest file '../../build/pkg_entrega1/pkg_entrega1.egg-info/SOURCES.txt'
+[2.332s] writing manifest file '../../build/pkg_entrega1/pkg_entrega1.egg-info/SOURCES.txt'
+[2.332s] running build
+[2.332s] running build_py
+[2.332s] creating /home/jaime/ros2_ws/build/pkg_entrega1/build
+[2.333s] creating /home/jaime/ros2_ws/build/pkg_entrega1/build/lib
+[2.333s] creating /home/jaime/ros2_ws/build/pkg_entrega1/build/lib/pkg_entrega1
+[2.333s] copying pkg_entrega1/__init__.py -> /home/jaime/ros2_ws/build/pkg_entrega1/build/lib/pkg_entrega1
+[2.333s] running install
+[2.334s] running install_lib
+[2.335s] creating /home/jaime/ros2_ws/install/pkg_entrega1/lib/python3.8/site-packages/pkg_entrega1
+[2.335s] copying /home/jaime/ros2_ws/build/pkg_entrega1/build/lib/pkg_entrega1/__init__.py -> /home/jaime/ros2_ws/install/pkg_entrega1/lib/python3.8/site-packages/pkg_entrega1
+[2.337s] byte-compiling /home/jaime/ros2_ws/install/pkg_entrega1/lib/python3.8/site-packages/pkg_entrega1/__init__.py to __init__.cpython-38.pyc
+[2.338s] running install_data
+[2.340s] creating /home/jaime/ros2_ws/install/pkg_entrega1/share/ament_index
+[2.340s] creating /home/jaime/ros2_ws/install/pkg_entrega1/share/ament_index/resource_index
+[2.340s] creating /home/jaime/ros2_ws/install/pkg_entrega1/share/ament_index/resource_index/packages
+[2.340s] copying resource/pkg_entrega1 -> /home/jaime/ros2_ws/install/pkg_entrega1/share/ament_index/resource_index/packages
+[2.341s] copying package.xml -> /home/jaime/ros2_ws/install/pkg_entrega1/share/pkg_entrega1
+[2.341s] running install_egg_info
+[2.344s] Copying ../../build/pkg_entrega1/pkg_entrega1.egg-info to /home/jaime/ros2_ws/install/pkg_entrega1/lib/python3.8/site-packages/pkg_entrega1-0.0.0-py3.8.egg-info
+[2.345s] running install_scripts
+[2.371s] writing list of installed files to '/home/jaime/ros2_ws/build/pkg_entrega1/install.log'
+[2.484s] Invoked command in '/home/jaime/ros2_ws/src/pkg_entrega1' returned '0': PYTHONPATH=/home/jaime/ros2_ws/build/pkg_entrega1/prefix_override:/home/jaime/ros2_ws/install/pkg_entrega1/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/pkg_entrega1 build --build-base /home/jaime/ros2_ws/build/pkg_entrega1/build install --record /home/jaime/ros2_ws/build/pkg_entrega1/install.log --install-scripts $base/lib/pkg_entrega1 --single-version-externally-managed

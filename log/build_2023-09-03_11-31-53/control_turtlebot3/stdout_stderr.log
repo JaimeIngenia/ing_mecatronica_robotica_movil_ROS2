@@ -1,0 +1,34 @@
+running develop
+Removing /home/jaime/ros2_ws/install/control_turtlebot3/lib/python3.8/site-packages/control-turtlebot3.egg-link (link to .)
+running egg_info
+writing ../../build/control_turtlebot3/control_turtlebot3.egg-info/PKG-INFO
+writing dependency_links to ../../build/control_turtlebot3/control_turtlebot3.egg-info/dependency_links.txt
+writing entry points to ../../build/control_turtlebot3/control_turtlebot3.egg-info/entry_points.txt
+writing requirements to ../../build/control_turtlebot3/control_turtlebot3.egg-info/requires.txt
+writing top-level names to ../../build/control_turtlebot3/control_turtlebot3.egg-info/top_level.txt
+reading manifest file '../../build/control_turtlebot3/control_turtlebot3.egg-info/SOURCES.txt'
+writing manifest file '../../build/control_turtlebot3/control_turtlebot3.egg-info/SOURCES.txt'
+running build
+running build_py
+copying control_turtlebot3/ejercicio3.py -> /home/jaime/ros2_ws/build/control_turtlebot3/build/lib/control_turtlebot3
+copying control_turtlebot3/ejercicio2.py -> /home/jaime/ros2_ws/build/control_turtlebot3/build/lib/control_turtlebot3
+copying control_turtlebot3/ejercicio1.py -> /home/jaime/ros2_ws/build/control_turtlebot3/build/lib/control_turtlebot3
+running install
+running install_lib
+creating /home/jaime/ros2_ws/install/control_turtlebot3/lib/python3.8/site-packages/control_turtlebot3
+copying /home/jaime/ros2_ws/build/control_turtlebot3/build/lib/control_turtlebot3/ejercicio3.py -> /home/jaime/ros2_ws/install/control_turtlebot3/lib/python3.8/site-packages/control_turtlebot3
+copying /home/jaime/ros2_ws/build/control_turtlebot3/build/lib/control_turtlebot3/ejercicio2.py -> /home/jaime/ros2_ws/install/control_turtlebot3/lib/python3.8/site-packages/control_turtlebot3
+copying /home/jaime/ros2_ws/build/control_turtlebot3/build/lib/control_turtlebot3/__init__.py -> /home/jaime/ros2_ws/install/control_turtlebot3/lib/python3.8/site-packages/control_turtlebot3
+copying /home/jaime/ros2_ws/build/control_turtlebot3/build/lib/control_turtlebot3/ejercicio1.py -> /home/jaime/ros2_ws/install/control_turtlebot3/lib/python3.8/site-packages/control_turtlebot3
+byte-compiling /home/jaime/ros2_ws/install/control_turtlebot3/lib/python3.8/site-packages/control_turtlebot3/ejercicio3.py to ejercicio3.cpython-38.pyc
+byte-compiling /home/jaime/ros2_ws/install/control_turtlebot3/lib/python3.8/site-packages/control_turtlebot3/ejercicio2.py to ejercicio2.cpython-38.pyc
+byte-compiling /home/jaime/ros2_ws/install/control_turtlebot3/lib/python3.8/site-packages/control_turtlebot3/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/jaime/ros2_ws/install/control_turtlebot3/lib/python3.8/site-packages/control_turtlebot3/ejercicio1.py to ejercicio1.cpython-38.pyc
+running install_data
+running install_egg_info
+Copying ../../build/control_turtlebot3/control_turtlebot3.egg-info to /home/jaime/ros2_ws/install/control_turtlebot3/lib/python3.8/site-packages/control_turtlebot3-0.0.0-py3.8.egg-info
+running install_scripts
+Installing nodo_publicador script to /home/jaime/ros2_ws/install/control_turtlebot3/lib/control_turtlebot3
+Installing nodo_publicador2 script to /home/jaime/ros2_ws/install/control_turtlebot3/lib/control_turtlebot3
+Installing nodo_publicador3 script to /home/jaime/ros2_ws/install/control_turtlebot3/lib/control_turtlebot3
+writing list of installed files to '/home/jaime/ros2_ws/build/control_turtlebot3/install.log'

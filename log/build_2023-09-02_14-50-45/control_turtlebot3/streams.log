@@ -1,0 +1,33 @@
+[1.891s] Invoking command in '/home/jaime/ros2_ws/src/control_turtlebot3': PYTHONPATH=/home/jaime/ros2_ws/build/control_turtlebot3/prefix_override:/home/jaime/ros2_ws/install/control_turtlebot3/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/control_turtlebot3 build --build-base /home/jaime/ros2_ws/build/control_turtlebot3/build install --record /home/jaime/ros2_ws/build/control_turtlebot3/install.log --install-scripts $base/lib/control_turtlebot3 --single-version-externally-managed
+[2.217s] running egg_info
+[2.219s] creating ../../build/control_turtlebot3/control_turtlebot3.egg-info
+[2.223s] writing ../../build/control_turtlebot3/control_turtlebot3.egg-info/PKG-INFO
+[2.223s] writing dependency_links to ../../build/control_turtlebot3/control_turtlebot3.egg-info/dependency_links.txt
+[2.223s] writing entry points to ../../build/control_turtlebot3/control_turtlebot3.egg-info/entry_points.txt
+[2.223s] writing requirements to ../../build/control_turtlebot3/control_turtlebot3.egg-info/requires.txt
+[2.223s] writing top-level names to ../../build/control_turtlebot3/control_turtlebot3.egg-info/top_level.txt
+[2.260s] writing manifest file '../../build/control_turtlebot3/control_turtlebot3.egg-info/SOURCES.txt'
+[2.321s] reading manifest file '../../build/control_turtlebot3/control_turtlebot3.egg-info/SOURCES.txt'
+[2.322s] writing manifest file '../../build/control_turtlebot3/control_turtlebot3.egg-info/SOURCES.txt'
+[2.323s] running build
+[2.323s] running build_py
+[2.323s] creating /home/jaime/ros2_ws/build/control_turtlebot3/build
+[2.324s] creating /home/jaime/ros2_ws/build/control_turtlebot3/build/lib
+[2.324s] creating /home/jaime/ros2_ws/build/control_turtlebot3/build/lib/control_turtlebot3
+[2.324s] copying control_turtlebot3/__init__.py -> /home/jaime/ros2_ws/build/control_turtlebot3/build/lib/control_turtlebot3
+[2.324s] running install
+[2.326s] running install_lib
+[2.328s] creating /home/jaime/ros2_ws/install/control_turtlebot3/lib/python3.8/site-packages/control_turtlebot3
+[2.328s] copying /home/jaime/ros2_ws/build/control_turtlebot3/build/lib/control_turtlebot3/__init__.py -> /home/jaime/ros2_ws/install/control_turtlebot3/lib/python3.8/site-packages/control_turtlebot3
+[2.329s] byte-compiling /home/jaime/ros2_ws/install/control_turtlebot3/lib/python3.8/site-packages/control_turtlebot3/__init__.py to __init__.cpython-38.pyc
+[2.332s] running install_data
+[2.333s] creating /home/jaime/ros2_ws/install/control_turtlebot3/share/ament_index
+[2.333s] creating /home/jaime/ros2_ws/install/control_turtlebot3/share/ament_index/resource_index
+[2.334s] creating /home/jaime/ros2_ws/install/control_turtlebot3/share/ament_index/resource_index/packages
+[2.334s] copying resource/control_turtlebot3 -> /home/jaime/ros2_ws/install/control_turtlebot3/share/ament_index/resource_index/packages
+[2.334s] copying package.xml -> /home/jaime/ros2_ws/install/control_turtlebot3/share/control_turtlebot3
+[2.335s] running install_egg_info
+[2.338s] Copying ../../build/control_turtlebot3/control_turtlebot3.egg-info to /home/jaime/ros2_ws/install/control_turtlebot3/lib/python3.8/site-packages/control_turtlebot3-0.0.0-py3.8.egg-info
+[2.340s] running install_scripts
+[2.375s] writing list of installed files to '/home/jaime/ros2_ws/build/control_turtlebot3/install.log'
+[2.463s] Invoked command in '/home/jaime/ros2_ws/src/control_turtlebot3' returned '0': PYTHONPATH=/home/jaime/ros2_ws/build/control_turtlebot3/prefix_override:/home/jaime/ros2_ws/install/control_turtlebot3/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/control_turtlebot3 build --build-base /home/jaime/ros2_ws/build/control_turtlebot3/build install --record /home/jaime/ros2_ws/build/control_turtlebot3/install.log --install-scripts $base/lib/control_turtlebot3 --single-version-externally-managed

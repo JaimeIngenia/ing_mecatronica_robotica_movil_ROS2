@@ -1,0 +1,34 @@
+[1.004s] Invoking command in '/home/jaime/ros2_ws/build/turtlesim': PYTHONPATH=/home/jaime/ros2_ws/build/turtlesim/prefix_override:/home/jaime/ros2_ws/install/turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/jaime/ros2_ws/build/turtlesim/build
+[1.307s] running develop
+[1.480s] Removing /home/jaime/ros2_ws/install/turtlesim/lib/python3.8/site-packages/turtlesim.egg-link (link to .)
+[1.548s] Invoked command in '/home/jaime/ros2_ws/build/turtlesim' returned '0': PYTHONPATH=/home/jaime/ros2_ws/build/turtlesim/prefix_override:/home/jaime/ros2_ws/install/turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/jaime/ros2_ws/build/turtlesim/build
+[1.554s] Invoking command in '/home/jaime/ros2_ws/src/turtlesim': PYTHONPATH=/home/jaime/ros2_ws/build/turtlesim/prefix_override:/home/jaime/ros2_ws/install/turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim build --build-base /home/jaime/ros2_ws/build/turtlesim/build install --record /home/jaime/ros2_ws/build/turtlesim/install.log --install-scripts $base/lib/turtlesim --single-version-externally-managed
+[1.919s] running egg_info
+[1.921s] writing ../../build/turtlesim/turtlesim.egg-info/PKG-INFO
+[1.921s] writing dependency_links to ../../build/turtlesim/turtlesim.egg-info/dependency_links.txt
+[1.922s] writing entry points to ../../build/turtlesim/turtlesim.egg-info/entry_points.txt
+[1.922s] writing requirements to ../../build/turtlesim/turtlesim.egg-info/requires.txt
+[1.922s] writing top-level names to ../../build/turtlesim/turtlesim.egg-info/top_level.txt
+[1.990s] reading manifest file '../../build/turtlesim/turtlesim.egg-info/SOURCES.txt'
+[1.991s] writing manifest file '../../build/turtlesim/turtlesim.egg-info/SOURCES.txt'
+[1.992s] running build
+[1.992s] running build_py
+[1.992s] creating /home/jaime/ros2_ws/build/turtlesim/build
+[1.992s] creating /home/jaime/ros2_ws/build/turtlesim/build/lib
+[1.992s] creating /home/jaime/ros2_ws/build/turtlesim/build/lib/turtlesim
+[1.992s] copying turtlesim/__init__.py -> /home/jaime/ros2_ws/build/turtlesim/build/lib/turtlesim
+[1.992s] copying turtlesim/ejercicio1.py -> /home/jaime/ros2_ws/build/turtlesim/build/lib/turtlesim
+[1.992s] running install
+[1.993s] running install_lib
+[1.995s] creating /home/jaime/ros2_ws/install/turtlesim/lib/python3.8/site-packages/turtlesim
+[1.995s] copying /home/jaime/ros2_ws/build/turtlesim/build/lib/turtlesim/__init__.py -> /home/jaime/ros2_ws/install/turtlesim/lib/python3.8/site-packages/turtlesim
+[1.995s] copying /home/jaime/ros2_ws/build/turtlesim/build/lib/turtlesim/ejercicio1.py -> /home/jaime/ros2_ws/install/turtlesim/lib/python3.8/site-packages/turtlesim
+[1.996s] byte-compiling /home/jaime/ros2_ws/install/turtlesim/lib/python3.8/site-packages/turtlesim/__init__.py to __init__.cpython-38.pyc
+[1.998s] byte-compiling /home/jaime/ros2_ws/install/turtlesim/lib/python3.8/site-packages/turtlesim/ejercicio1.py to ejercicio1.cpython-38.pyc
+[1.998s] running install_data
+[2.000s] running install_egg_info
+[2.003s] Copying ../../build/turtlesim/turtlesim.egg-info to /home/jaime/ros2_ws/install/turtlesim/lib/python3.8/site-packages/turtlesim-0.0.0-py3.8.egg-info
+[2.005s] running install_scripts
+[2.031s] Installing nodo_publicador script to /home/jaime/ros2_ws/install/turtlesim/lib/turtlesim
+[2.032s] writing list of installed files to '/home/jaime/ros2_ws/build/turtlesim/install.log'
+[2.082s] Invoked command in '/home/jaime/ros2_ws/src/turtlesim' returned '0': PYTHONPATH=/home/jaime/ros2_ws/build/turtlesim/prefix_override:/home/jaime/ros2_ws/install/turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim build --build-base /home/jaime/ros2_ws/build/turtlesim/build install --record /home/jaime/ros2_ws/build/turtlesim/install.log --install-scripts $base/lib/turtlesim --single-version-externally-managed
