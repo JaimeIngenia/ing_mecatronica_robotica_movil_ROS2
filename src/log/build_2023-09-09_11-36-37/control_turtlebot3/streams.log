@@ -1,0 +1,19 @@
+[3.695s] Invoking command in '/home/jaime/ros2_ws/src/build/control_turtlebot3': AMENT_PREFIX_PATH=/home/jaime/ros2_ws/src/install/turtlesim:${AMENT_PREFIX_PATH} PYTHONPATH=/home/jaime/ros2_ws/src/build/control_turtlebot3/prefix_override:/home/jaime/ros2_ws/src/install/control_turtlebot3/lib/python3.8/site-packages:/home/jaime/ros2_ws/src/build/turtlesim:/home/jaime/ros2_ws/src/install/turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/jaime/ros2_ws/src/build/control_turtlebot3/build --no-deps install_data
+[4.291s] running develop
+[4.603s] running egg_info
+[4.603s] writing control_turtlebot3.egg-info/PKG-INFO
+[4.603s] writing dependency_links to control_turtlebot3.egg-info/dependency_links.txt
+[4.603s] writing entry points to control_turtlebot3.egg-info/entry_points.txt
+[4.603s] writing requirements to control_turtlebot3.egg-info/requires.txt
+[4.604s] writing top-level names to control_turtlebot3.egg-info/top_level.txt
+[4.651s] reading manifest file 'control_turtlebot3.egg-info/SOURCES.txt'
+[4.652s] writing manifest file 'control_turtlebot3.egg-info/SOURCES.txt'
+[4.752s] running build_ext
+[4.752s] Creating /home/jaime/ros2_ws/src/install/control_turtlebot3/lib/python3.8/site-packages/control-turtlebot3.egg-link (link to .)
+[4.754s] Installing nodo_publicador script to /home/jaime/ros2_ws/src/install/control_turtlebot3/lib/control_turtlebot3
+[4.754s] Installing nodo_publicador2 script to /home/jaime/ros2_ws/src/install/control_turtlebot3/lib/control_turtlebot3
+[4.755s] Installing nodo_publicador3 script to /home/jaime/ros2_ws/src/install/control_turtlebot3/lib/control_turtlebot3
+[4.755s] 
+[4.756s] Installed /home/jaime/ros2_ws/src/build/control_turtlebot3
+[4.756s] running install_data
+[4.869s] Invoked command in '/home/jaime/ros2_ws/src/build/control_turtlebot3' returned '0': AMENT_PREFIX_PATH=/home/jaime/ros2_ws/src/install/turtlesim:${AMENT_PREFIX_PATH} PYTHONPATH=/home/jaime/ros2_ws/src/build/control_turtlebot3/prefix_override:/home/jaime/ros2_ws/src/install/control_turtlebot3/lib/python3.8/site-packages:/home/jaime/ros2_ws/src/build/turtlesim:/home/jaime/ros2_ws/src/install/turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/jaime/ros2_ws/src/build/control_turtlebot3/build --no-deps install_data

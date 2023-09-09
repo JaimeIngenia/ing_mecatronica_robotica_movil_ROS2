@@ -1,0 +1,17 @@
+[1.528s] Invoking command in '/home/jaime/ros2_ws/build/turtlesim': PYTHONPATH=/home/jaime/ros2_ws/build/turtlesim/prefix_override:/home/jaime/ros2_ws/install/turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/jaime/ros2_ws/build/turtlesim/build --no-deps install_data
+[1.886s] running develop
+[2.068s] running egg_info
+[2.068s] writing turtlesim.egg-info/PKG-INFO
+[2.070s] writing dependency_links to turtlesim.egg-info/dependency_links.txt
+[2.070s] writing entry points to turtlesim.egg-info/entry_points.txt
+[2.071s] writing requirements to turtlesim.egg-info/requires.txt
+[2.071s] writing top-level names to turtlesim.egg-info/top_level.txt
+[2.143s] reading manifest file 'turtlesim.egg-info/SOURCES.txt'
+[2.144s] writing manifest file 'turtlesim.egg-info/SOURCES.txt'
+[2.211s] running build_ext
+[2.213s] Creating /home/jaime/ros2_ws/install/turtlesim/lib/python3.8/site-packages/turtlesim.egg-link (link to .)
+[2.215s] Installing nodo_publicador script to /home/jaime/ros2_ws/install/turtlesim/lib/turtlesim
+[2.216s] 
+[2.216s] Installed /home/jaime/ros2_ws/build/turtlesim
+[2.216s] running install_data
+[2.321s] Invoked command in '/home/jaime/ros2_ws/build/turtlesim' returned '0': PYTHONPATH=/home/jaime/ros2_ws/build/turtlesim/prefix_override:/home/jaime/ros2_ws/install/turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/jaime/ros2_ws/build/turtlesim/build --no-deps install_data

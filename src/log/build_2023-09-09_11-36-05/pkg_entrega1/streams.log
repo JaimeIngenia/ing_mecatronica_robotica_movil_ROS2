@@ -1,0 +1,17 @@
+[3.509s] Invoking command in '/home/jaime/ros2_ws/src/build/pkg_entrega1': AMENT_PREFIX_PATH=/home/jaime/ros2_ws/src/install/turtlesim:${AMENT_PREFIX_PATH} PYTHONPATH=/home/jaime/ros2_ws/src/build/pkg_entrega1/prefix_override:/home/jaime/ros2_ws/src/install/pkg_entrega1/lib/python3.8/site-packages:/home/jaime/ros2_ws/src/build/turtlesim:/home/jaime/ros2_ws/src/install/turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/jaime/ros2_ws/src/build/pkg_entrega1/build --no-deps install_data
+[4.274s] running develop
+[4.679s] running egg_info
+[4.681s] writing pkg_entrega1.egg-info/PKG-INFO
+[4.684s] writing dependency_links to pkg_entrega1.egg-info/dependency_links.txt
+[4.688s] writing entry points to pkg_entrega1.egg-info/entry_points.txt
+[4.691s] writing requirements to pkg_entrega1.egg-info/requires.txt
+[4.694s] writing top-level names to pkg_entrega1.egg-info/top_level.txt
+[4.803s] reading manifest file 'pkg_entrega1.egg-info/SOURCES.txt'
+[4.807s] writing manifest file 'pkg_entrega1.egg-info/SOURCES.txt'
+[4.897s] running build_ext
+[4.897s] Creating /home/jaime/ros2_ws/src/install/pkg_entrega1/lib/python3.8/site-packages/pkg-entrega1.egg-link (link to .)
+[4.898s] Installing nodo_publicador script to /home/jaime/ros2_ws/src/install/pkg_entrega1/lib/pkg_entrega1
+[4.898s] 
+[4.898s] Installed /home/jaime/ros2_ws/src/build/pkg_entrega1
+[4.898s] running install_data
+[5.031s] Invoked command in '/home/jaime/ros2_ws/src/build/pkg_entrega1' returned '0': AMENT_PREFIX_PATH=/home/jaime/ros2_ws/src/install/turtlesim:${AMENT_PREFIX_PATH} PYTHONPATH=/home/jaime/ros2_ws/src/build/pkg_entrega1/prefix_override:/home/jaime/ros2_ws/src/install/pkg_entrega1/lib/python3.8/site-packages:/home/jaime/ros2_ws/src/build/turtlesim:/home/jaime/ros2_ws/src/install/turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/jaime/ros2_ws/src/build/pkg_entrega1/build --no-deps install_data

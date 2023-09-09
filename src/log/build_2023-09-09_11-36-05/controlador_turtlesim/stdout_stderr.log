@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing controlador_turtlesim.egg-info/PKG-INFO
+writing dependency_links to controlador_turtlesim.egg-info/dependency_links.txt
+writing entry points to controlador_turtlesim.egg-info/entry_points.txt
+writing requirements to controlador_turtlesim.egg-info/requires.txt
+writing top-level names to controlador_turtlesim.egg-info/top_level.txt
+reading manifest file 'controlador_turtlesim.egg-info/SOURCES.txt'
+writing manifest file 'controlador_turtlesim.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/jaime/ros2_ws/src/install/controlador_turtlesim/lib/python3.8/site-packages/controlador-turtlesim.egg-link (link to .)
+Installing nodo_publicador script to /home/jaime/ros2_ws/src/install/controlador_turtlesim/lib/controlador_turtlesim
+Installing nodo_suscriptor script to /home/jaime/ros2_ws/src/install/controlador_turtlesim/lib/controlador_turtlesim
+
+Installed /home/jaime/ros2_ws/src/build/controlador_turtlesim
+running install_data

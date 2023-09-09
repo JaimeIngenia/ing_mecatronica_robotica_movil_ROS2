@@ -1,0 +1,48 @@
+[1.288s] Invoking command in '/home/jaime/ros2_ws/src/build/my_c_pkg': AMENT_PREFIX_PATH=/home/jaime/ros2_ws/src/install/turtlesim:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jaime/ros2_ws/install/pkg_entrega1:/home/jaime/ros2_ws/install/my_py_pkg:/home/jaime/ros2_ws/install/controlador_turtlesim:/home/jaime/ros2_ws/install/control_turtlebot3:/home/jaime/ros2_ws/install/turtlesim:/home/jaime/turtlebot3_ws/install/turtlebot3_teleop:/home/jaime/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy PYTHONPATH=/home/jaime/ros2_ws/src/build/turtlesim:/home/jaime/ros2_ws/src/install/turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/jaime/ros2_ws/src/my_c_pkg -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jaime/ros2_ws/src/install/my_c_pkg
+[2.098s] -- The C compiler identification is GNU 9.4.0
+[2.535s] -- The CXX compiler identification is GNU 9.4.0
+[2.570s] -- Check for working C compiler: /usr/bin/cc
+[2.850s] -- Check for working C compiler: /usr/bin/cc -- works
+[2.851s] -- Detecting C compiler ABI info
+[3.487s] -- Detecting C compiler ABI info - done
+[3.524s] -- Detecting C compile features
+[3.526s] -- Detecting C compile features - done
+[3.560s] -- Check for working CXX compiler: /usr/bin/c++
+[3.975s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[3.977s] -- Detecting CXX compiler ABI info
+[4.443s] -- Detecting CXX compiler ABI info - done
+[4.456s] -- Detecting CXX compile features
+[4.457s] -- Detecting CXX compile features - done
+[4.627s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[4.798s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[4.798s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.779s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[6.064s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[6.597s] -- Added test 'copyright' to check source files copyright and LICENSE
+[6.605s] -- Added test 'lint_cmake' to check CMake code style
+[6.609s] -- Added test 'xmllint' to check XML markup files
+[6.617s] -- Configuring done
+[6.627s] -- Generating done
+[6.631s] -- Build files have been written to: /home/jaime/ros2_ws/src/build/my_c_pkg
+[6.643s] Invoked command in '/home/jaime/ros2_ws/src/build/my_c_pkg' returned '0': AMENT_PREFIX_PATH=/home/jaime/ros2_ws/src/install/turtlesim:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jaime/ros2_ws/install/pkg_entrega1:/home/jaime/ros2_ws/install/my_py_pkg:/home/jaime/ros2_ws/install/controlador_turtlesim:/home/jaime/ros2_ws/install/control_turtlebot3:/home/jaime/ros2_ws/install/turtlesim:/home/jaime/turtlebot3_ws/install/turtlebot3_teleop:/home/jaime/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy PYTHONPATH=/home/jaime/ros2_ws/src/build/turtlesim:/home/jaime/ros2_ws/src/install/turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/jaime/ros2_ws/src/my_c_pkg -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jaime/ros2_ws/src/install/my_c_pkg
+[6.646s] Invoking command in '/home/jaime/ros2_ws/src/build/my_c_pkg': AMENT_PREFIX_PATH=/home/jaime/ros2_ws/src/install/turtlesim:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jaime/ros2_ws/install/pkg_entrega1:/home/jaime/ros2_ws/install/my_py_pkg:/home/jaime/ros2_ws/install/controlador_turtlesim:/home/jaime/ros2_ws/install/control_turtlebot3:/home/jaime/ros2_ws/install/turtlesim:/home/jaime/turtlebot3_ws/install/turtlebot3_teleop:/home/jaime/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy PYTHONPATH=/home/jaime/ros2_ws/src/build/turtlesim:/home/jaime/ros2_ws/src/install/turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/jaime/ros2_ws/src/build/my_c_pkg -- -j5 -l5
+[6.727s] Invoked command in '/home/jaime/ros2_ws/src/build/my_c_pkg' returned '0': AMENT_PREFIX_PATH=/home/jaime/ros2_ws/src/install/turtlesim:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jaime/ros2_ws/install/pkg_entrega1:/home/jaime/ros2_ws/install/my_py_pkg:/home/jaime/ros2_ws/install/controlador_turtlesim:/home/jaime/ros2_ws/install/control_turtlebot3:/home/jaime/ros2_ws/install/turtlesim:/home/jaime/turtlebot3_ws/install/turtlebot3_teleop:/home/jaime/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy PYTHONPATH=/home/jaime/ros2_ws/src/build/turtlesim:/home/jaime/ros2_ws/src/install/turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/jaime/ros2_ws/src/build/my_c_pkg -- -j5 -l5
+[6.789s] Invoking command in '/home/jaime/ros2_ws/src/build/my_c_pkg': AMENT_PREFIX_PATH=/home/jaime/ros2_ws/src/install/turtlesim:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jaime/ros2_ws/install/pkg_entrega1:/home/jaime/ros2_ws/install/my_py_pkg:/home/jaime/ros2_ws/install/controlador_turtlesim:/home/jaime/ros2_ws/install/control_turtlebot3:/home/jaime/ros2_ws/install/turtlesim:/home/jaime/turtlebot3_ws/install/turtlebot3_teleop:/home/jaime/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy PYTHONPATH=/home/jaime/ros2_ws/src/build/turtlesim:/home/jaime/ros2_ws/src/install/turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/jaime/ros2_ws/src/build/my_c_pkg
+[6.806s] -- Install configuration: ""
+[6.822s] -- Execute custom install script
+[6.822s] -- Symlinking: /home/jaime/ros2_ws/src/install/my_c_pkg/share/ament_index/resource_index/package_run_dependencies/my_c_pkg
+[6.854s] -- Symlinking: /home/jaime/ros2_ws/src/install/my_c_pkg/share/ament_index/resource_index/parent_prefix_path/my_c_pkg
+[6.874s] -- Symlinking: /home/jaime/ros2_ws/src/install/my_c_pkg/share/my_c_pkg/environment/ament_prefix_path.sh
+[6.894s] -- Symlinking: /home/jaime/ros2_ws/src/install/my_c_pkg/share/my_c_pkg/environment/ament_prefix_path.dsv
+[6.916s] -- Symlinking: /home/jaime/ros2_ws/src/install/my_c_pkg/share/my_c_pkg/environment/path.sh
+[6.930s] -- Symlinking: /home/jaime/ros2_ws/src/install/my_c_pkg/share/my_c_pkg/environment/path.dsv
+[6.945s] -- Symlinking: /home/jaime/ros2_ws/src/install/my_c_pkg/share/my_c_pkg/local_setup.bash
+[6.960s] -- Symlinking: /home/jaime/ros2_ws/src/install/my_c_pkg/share/my_c_pkg/local_setup.sh
+[6.974s] -- Symlinking: /home/jaime/ros2_ws/src/install/my_c_pkg/share/my_c_pkg/local_setup.zsh
+[6.987s] -- Symlinking: /home/jaime/ros2_ws/src/install/my_c_pkg/share/my_c_pkg/local_setup.dsv
+[7.005s] -- Symlinking: /home/jaime/ros2_ws/src/install/my_c_pkg/share/my_c_pkg/package.dsv
+[7.034s] -- Symlinking: /home/jaime/ros2_ws/src/install/my_c_pkg/share/ament_index/resource_index/packages/my_c_pkg
+[7.051s] -- Symlinking: /home/jaime/ros2_ws/src/install/my_c_pkg/share/my_c_pkg/cmake/my_c_pkgConfig.cmake
+[7.065s] -- Symlinking: /home/jaime/ros2_ws/src/install/my_c_pkg/share/my_c_pkg/cmake/my_c_pkgConfig-version.cmake
+[7.087s] -- Symlinking: /home/jaime/ros2_ws/src/install/my_c_pkg/share/my_c_pkg/package.xml
+[7.117s] Invoked command in '/home/jaime/ros2_ws/src/build/my_c_pkg' returned '0': AMENT_PREFIX_PATH=/home/jaime/ros2_ws/src/install/turtlesim:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jaime/ros2_ws/install/pkg_entrega1:/home/jaime/ros2_ws/install/my_py_pkg:/home/jaime/ros2_ws/install/controlador_turtlesim:/home/jaime/ros2_ws/install/control_turtlebot3:/home/jaime/ros2_ws/install/turtlesim:/home/jaime/turtlebot3_ws/install/turtlebot3_teleop:/home/jaime/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy PYTHONPATH=/home/jaime/ros2_ws/src/build/turtlesim:/home/jaime/ros2_ws/src/install/turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/jaime/ros2_ws/src/build/my_c_pkg

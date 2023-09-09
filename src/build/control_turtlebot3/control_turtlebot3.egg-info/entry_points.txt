@@ -1,0 +1,5 @@
+[console_scripts]
+nodo_publicador = control_turtlebot3.ejercicio1:main
+nodo_publicador2 = control_turtlebot3.ejercicio2:main
+nodo_publicador3 = control_turtlebot3.ejercicio3:main
+

@@ -1,0 +1,25 @@
+[4.625s] Invoking command in '/home/jaime/ros2_ws/src/build/my_py_pkg': AMENT_PREFIX_PATH=/home/jaime/ros2_ws/src/install/turtlesim:${AMENT_PREFIX_PATH} PYTHONPATH=/home/jaime/ros2_ws/src/build/my_py_pkg/prefix_override:/home/jaime/ros2_ws/src/install/my_py_pkg/lib/python3.8/site-packages:/home/jaime/ros2_ws/src/build/turtlesim:/home/jaime/ros2_ws/src/install/turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/jaime/ros2_ws/src/build/my_py_pkg/build --no-deps install_data
+[5.480s] running develop
+[5.701s] running egg_info
+[5.701s] creating my_py_pkg.egg-info
+[5.702s] writing my_py_pkg.egg-info/PKG-INFO
+[5.702s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[5.703s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[5.703s] writing requirements to my_py_pkg.egg-info/requires.txt
+[5.703s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[5.706s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[5.824s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[5.826s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[6.013s] running build_ext
+[6.013s] Creating /home/jaime/ros2_ws/src/install/my_py_pkg/lib/python3.8/site-packages/site.py
+[6.013s] Creating /home/jaime/ros2_ws/src/install/my_py_pkg/lib/python3.8/site-packages/my-py-pkg.egg-link (link to .)
+[6.014s] Installing py_node script to /home/jaime/ros2_ws/src/install/my_py_pkg/lib/my_py_pkg
+[6.014s] 
+[6.014s] Installed /home/jaime/ros2_ws/src/build/my_py_pkg
+[6.014s] running install_data
+[6.014s] creating /home/jaime/ros2_ws/src/install/my_py_pkg/share/ament_index
+[6.014s] creating /home/jaime/ros2_ws/src/install/my_py_pkg/share/ament_index/resource_index
+[6.014s] creating /home/jaime/ros2_ws/src/install/my_py_pkg/share/ament_index/resource_index/packages
+[6.014s] copying resource/my_py_pkg -> /home/jaime/ros2_ws/src/install/my_py_pkg/share/ament_index/resource_index/packages
+[6.014s] copying package.xml -> /home/jaime/ros2_ws/src/install/my_py_pkg/share/my_py_pkg
+[6.207s] Invoked command in '/home/jaime/ros2_ws/src/build/my_py_pkg' returned '0': AMENT_PREFIX_PATH=/home/jaime/ros2_ws/src/install/turtlesim:${AMENT_PREFIX_PATH} PYTHONPATH=/home/jaime/ros2_ws/src/build/my_py_pkg/prefix_override:/home/jaime/ros2_ws/src/install/my_py_pkg/lib/python3.8/site-packages:/home/jaime/ros2_ws/src/build/turtlesim:/home/jaime/ros2_ws/src/install/turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/jaime/ros2_ws/src/build/my_py_pkg/build --no-deps install_data

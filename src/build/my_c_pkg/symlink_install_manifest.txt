@@ -1,0 +1,15 @@
+/home/jaime/ros2_ws/src/install/my_c_pkg/share/ament_index/resource_index/package_run_dependencies/my_c_pkg
+/home/jaime/ros2_ws/src/install/my_c_pkg/share/ament_index/resource_index/parent_prefix_path/my_c_pkg
+/home/jaime/ros2_ws/src/install/my_c_pkg/share/my_c_pkg/environment/ament_prefix_path.sh
+/home/jaime/ros2_ws/src/install/my_c_pkg/share/my_c_pkg/environment/ament_prefix_path.dsv
+/home/jaime/ros2_ws/src/install/my_c_pkg/share/my_c_pkg/environment/path.sh
+/home/jaime/ros2_ws/src/install/my_c_pkg/share/my_c_pkg/environment/path.dsv
+/home/jaime/ros2_ws/src/install/my_c_pkg/share/my_c_pkg/local_setup.bash
+/home/jaime/ros2_ws/src/install/my_c_pkg/share/my_c_pkg/local_setup.sh
+/home/jaime/ros2_ws/src/install/my_c_pkg/share/my_c_pkg/local_setup.zsh
+/home/jaime/ros2_ws/src/install/my_c_pkg/share/my_c_pkg/local_setup.dsv
+/home/jaime/ros2_ws/src/install/my_c_pkg/share/my_c_pkg/package.dsv
+/home/jaime/ros2_ws/src/install/my_c_pkg/share/ament_index/resource_index/packages/my_c_pkg
+/home/jaime/ros2_ws/src/install/my_c_pkg/share/my_c_pkg/cmake/my_c_pkgConfig.cmake
+/home/jaime/ros2_ws/src/install/my_c_pkg/share/my_c_pkg/cmake/my_c_pkgConfig-version.cmake
+/home/jaime/ros2_ws/src/install/my_c_pkg/share/my_c_pkg/package.xml

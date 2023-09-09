@@ -1,0 +1,25 @@
+[1.938s] Invoking command in '/home/jaime/ros2_ws/src/build/turtlesim': PYTHONPATH=/home/jaime/ros2_ws/src/build/turtlesim/prefix_override:/home/jaime/ros2_ws/src/install/turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/jaime/ros2_ws/src/build/turtlesim/build --no-deps install_data
+[2.466s] running develop
+[2.706s] running egg_info
+[2.707s] creating turtlesim.egg-info
+[2.709s] writing turtlesim.egg-info/PKG-INFO
+[2.712s] writing dependency_links to turtlesim.egg-info/dependency_links.txt
+[2.712s] writing entry points to turtlesim.egg-info/entry_points.txt
+[2.712s] writing requirements to turtlesim.egg-info/requires.txt
+[2.712s] writing top-level names to turtlesim.egg-info/top_level.txt
+[2.727s] writing manifest file 'turtlesim.egg-info/SOURCES.txt'
+[2.808s] reading manifest file 'turtlesim.egg-info/SOURCES.txt'
+[2.809s] writing manifest file 'turtlesim.egg-info/SOURCES.txt'
+[2.884s] running build_ext
+[2.910s] Creating /home/jaime/ros2_ws/src/install/turtlesim/lib/python3.8/site-packages/site.py
+[2.911s] Creating /home/jaime/ros2_ws/src/install/turtlesim/lib/python3.8/site-packages/turtlesim.egg-link (link to .)
+[2.912s] Installing nodo_publicador script to /home/jaime/ros2_ws/src/install/turtlesim/lib/turtlesim
+[2.913s] 
+[2.913s] Installed /home/jaime/ros2_ws/src/build/turtlesim
+[2.913s] running install_data
+[2.914s] creating /home/jaime/ros2_ws/src/install/turtlesim/share/ament_index
+[2.914s] creating /home/jaime/ros2_ws/src/install/turtlesim/share/ament_index/resource_index
+[2.914s] creating /home/jaime/ros2_ws/src/install/turtlesim/share/ament_index/resource_index/packages
+[2.914s] copying resource/turtlesim -> /home/jaime/ros2_ws/src/install/turtlesim/share/ament_index/resource_index/packages
+[2.914s] copying package.xml -> /home/jaime/ros2_ws/src/install/turtlesim/share/turtlesim
+[3.008s] Invoked command in '/home/jaime/ros2_ws/src/build/turtlesim' returned '0': PYTHONPATH=/home/jaime/ros2_ws/src/build/turtlesim/prefix_override:/home/jaime/ros2_ws/src/install/turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/jaime/ros2_ws/src/build/turtlesim/build --no-deps install_data

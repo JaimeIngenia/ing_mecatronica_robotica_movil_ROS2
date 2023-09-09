@@ -1,0 +1,25 @@
+running develop
+running egg_info
+creating control_turtlebot3.egg-info
+writing control_turtlebot3.egg-info/PKG-INFO
+writing dependency_links to control_turtlebot3.egg-info/dependency_links.txt
+writing entry points to control_turtlebot3.egg-info/entry_points.txt
+writing requirements to control_turtlebot3.egg-info/requires.txt
+writing top-level names to control_turtlebot3.egg-info/top_level.txt
+writing manifest file 'control_turtlebot3.egg-info/SOURCES.txt'
+reading manifest file 'control_turtlebot3.egg-info/SOURCES.txt'
+writing manifest file 'control_turtlebot3.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/jaime/ros2_ws/src/install/control_turtlebot3/lib/python3.8/site-packages/site.py
+Creating /home/jaime/ros2_ws/src/install/control_turtlebot3/lib/python3.8/site-packages/control-turtlebot3.egg-link (link to .)
+Installing nodo_publicador script to /home/jaime/ros2_ws/src/install/control_turtlebot3/lib/control_turtlebot3
+Installing nodo_publicador2 script to /home/jaime/ros2_ws/src/install/control_turtlebot3/lib/control_turtlebot3
+Installing nodo_publicador3 script to /home/jaime/ros2_ws/src/install/control_turtlebot3/lib/control_turtlebot3
+
+Installed /home/jaime/ros2_ws/src/build/control_turtlebot3
+running install_data
+creating /home/jaime/ros2_ws/src/install/control_turtlebot3/share/ament_index
+creating /home/jaime/ros2_ws/src/install/control_turtlebot3/share/ament_index/resource_index
+creating /home/jaime/ros2_ws/src/install/control_turtlebot3/share/ament_index/resource_index/packages
+copying resource/control_turtlebot3 -> /home/jaime/ros2_ws/src/install/control_turtlebot3/share/ament_index/resource_index/packages
+copying package.xml -> /home/jaime/ros2_ws/src/install/control_turtlebot3/share/control_turtlebot3

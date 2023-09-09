@@ -1,0 +1,4 @@
+[console_scripts]
+nodo_publicador = controlador_turtlesim.ejercicio1_publicador:main
+nodo_suscriptor = controlador_turtlesim.ejercicio2:main
+

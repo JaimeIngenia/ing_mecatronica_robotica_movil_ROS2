@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating turtlesim.egg-info
+writing turtlesim.egg-info/PKG-INFO
+writing dependency_links to turtlesim.egg-info/dependency_links.txt
+writing entry points to turtlesim.egg-info/entry_points.txt
+writing requirements to turtlesim.egg-info/requires.txt
+writing top-level names to turtlesim.egg-info/top_level.txt
+writing manifest file 'turtlesim.egg-info/SOURCES.txt'
+reading manifest file 'turtlesim.egg-info/SOURCES.txt'
+writing manifest file 'turtlesim.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/jaime/ros2_ws/src/install/turtlesim/lib/python3.8/site-packages/site.py
+Creating /home/jaime/ros2_ws/src/install/turtlesim/lib/python3.8/site-packages/turtlesim.egg-link (link to .)
+Installing nodo_publicador script to /home/jaime/ros2_ws/src/install/turtlesim/lib/turtlesim
+
+Installed /home/jaime/ros2_ws/src/build/turtlesim
+running install_data
+creating /home/jaime/ros2_ws/src/install/turtlesim/share/ament_index
+creating /home/jaime/ros2_ws/src/install/turtlesim/share/ament_index/resource_index
+creating /home/jaime/ros2_ws/src/install/turtlesim/share/ament_index/resource_index/packages
+copying resource/turtlesim -> /home/jaime/ros2_ws/src/install/turtlesim/share/ament_index/resource_index/packages
+copying package.xml -> /home/jaime/ros2_ws/src/install/turtlesim/share/turtlesim

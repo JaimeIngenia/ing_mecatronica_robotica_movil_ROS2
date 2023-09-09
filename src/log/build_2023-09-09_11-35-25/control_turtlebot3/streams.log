@@ -1,0 +1,27 @@
+[4.518s] Invoking command in '/home/jaime/ros2_ws/src/build/control_turtlebot3': AMENT_PREFIX_PATH=/home/jaime/ros2_ws/src/install/turtlesim:${AMENT_PREFIX_PATH} PYTHONPATH=/home/jaime/ros2_ws/src/build/control_turtlebot3/prefix_override:/home/jaime/ros2_ws/src/install/control_turtlebot3/lib/python3.8/site-packages:/home/jaime/ros2_ws/src/build/turtlesim:/home/jaime/ros2_ws/src/install/turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/jaime/ros2_ws/src/build/control_turtlebot3/build --no-deps install_data
+[5.274s] running develop
+[5.539s] running egg_info
+[5.540s] creating control_turtlebot3.egg-info
+[5.540s] writing control_turtlebot3.egg-info/PKG-INFO
+[5.541s] writing dependency_links to control_turtlebot3.egg-info/dependency_links.txt
+[5.542s] writing entry points to control_turtlebot3.egg-info/entry_points.txt
+[5.542s] writing requirements to control_turtlebot3.egg-info/requires.txt
+[5.542s] writing top-level names to control_turtlebot3.egg-info/top_level.txt
+[5.545s] writing manifest file 'control_turtlebot3.egg-info/SOURCES.txt'
+[5.647s] reading manifest file 'control_turtlebot3.egg-info/SOURCES.txt'
+[5.651s] writing manifest file 'control_turtlebot3.egg-info/SOURCES.txt'
+[5.746s] running build_ext
+[5.746s] Creating /home/jaime/ros2_ws/src/install/control_turtlebot3/lib/python3.8/site-packages/site.py
+[5.753s] Creating /home/jaime/ros2_ws/src/install/control_turtlebot3/lib/python3.8/site-packages/control-turtlebot3.egg-link (link to .)
+[5.754s] Installing nodo_publicador script to /home/jaime/ros2_ws/src/install/control_turtlebot3/lib/control_turtlebot3
+[5.755s] Installing nodo_publicador2 script to /home/jaime/ros2_ws/src/install/control_turtlebot3/lib/control_turtlebot3
+[5.755s] Installing nodo_publicador3 script to /home/jaime/ros2_ws/src/install/control_turtlebot3/lib/control_turtlebot3
+[5.755s] 
+[5.755s] Installed /home/jaime/ros2_ws/src/build/control_turtlebot3
+[5.755s] running install_data
+[5.755s] creating /home/jaime/ros2_ws/src/install/control_turtlebot3/share/ament_index
+[5.755s] creating /home/jaime/ros2_ws/src/install/control_turtlebot3/share/ament_index/resource_index
+[5.755s] creating /home/jaime/ros2_ws/src/install/control_turtlebot3/share/ament_index/resource_index/packages
+[5.756s] copying resource/control_turtlebot3 -> /home/jaime/ros2_ws/src/install/control_turtlebot3/share/ament_index/resource_index/packages
+[5.756s] copying package.xml -> /home/jaime/ros2_ws/src/install/control_turtlebot3/share/control_turtlebot3
+[5.963s] Invoked command in '/home/jaime/ros2_ws/src/build/control_turtlebot3' returned '0': AMENT_PREFIX_PATH=/home/jaime/ros2_ws/src/install/turtlesim:${AMENT_PREFIX_PATH} PYTHONPATH=/home/jaime/ros2_ws/src/build/control_turtlebot3/prefix_override:/home/jaime/ros2_ws/src/install/control_turtlebot3/lib/python3.8/site-packages:/home/jaime/ros2_ws/src/build/turtlesim:/home/jaime/ros2_ws/src/install/turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/jaime/ros2_ws/src/build/control_turtlebot3/build --no-deps install_data
